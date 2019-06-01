@@ -17,7 +17,7 @@
 [데이터보기]http://kosis.kr/statHtml/statHtml.do?orgId=101&tblId=DT_2KAAA15_OECD
 
 ## 소스
-* [링크로 소스 내용 보기]https://github.com/Ryujiyeon/Python_progect1/blob/master/README.md
+* [링크로 소스 내용 보기]https://github.com/Ryujiyeon/Python_progect1/blob/master/homework.py
 
 * 코드 삽입
 ~~~python
